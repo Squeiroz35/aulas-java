@@ -41,7 +41,18 @@ public class Exercicio06 {
 		}
 		System.out.println(contador);
 		
-				
+		if (contador == 2) {
+			System.out.println("Suspeito");
+		}
+		else if (contador == 3 || contador == 4) {
+			System.out.println("Cumplice");
+		}
+		else if (contador == 5) {
+			System.out.println("Assassino");
+		}
+		else {
+			System.out.println("Inocente");
+		}
 		Entrada.close();
 	}
 
