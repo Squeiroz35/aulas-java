@@ -1,4 +1,5 @@
 package aula03;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Exercicio11 {
@@ -20,5 +21,10 @@ public class Exercicio11 {
 			System.out.println("digite 4 numero para o array4:");	
 			array4[i] = Input.nextInt();
 		}
+	System.out.println(Arrays.toString(array1));	
+	System.out.println(Arrays.toString(array2));	
+	System.out.println(Arrays.toString(array3));	
+	System.out.println(Arrays.toString(array4));	
+
 }
 }
