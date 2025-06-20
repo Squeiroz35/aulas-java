@@ -1,5 +1,3 @@
-2025/06/20-13:59:52.492 1990 Log #3: 8 ops saved to Table #4 OK
-2025/06/20-13:59:52.494 1990 Archiving C:\Users\Sérgio Queiroz\Desktop\aulas-java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log: OK
-2025/06/20-13:59:52.494 1990 Table #4: 8 entries OK
-2025/06/20-13:59:52.496 1990 Archiving C:\Users\Sérgio Queiroz\Desktop\aulas-java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001: OK
-2025/06/20-13:59:52.504 1990 **** Repaired leveldb C:\Users\Sérgio Queiroz\Desktop\aulas-java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database; recovered 1 files; 266 bytes. Some data may have been lost. ****
+2025/06/20-14:15:15.570 3890 Reusing MANIFEST C:\Users\Sérgio Queiroz\Aulas-java\aulas-java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2025/06/20-14:15:15.571 3890 Recovering log #6
+2025/06/20-14:15:15.571 3890 Reusing old log C:\Users\Sérgio Queiroz\Aulas-java\aulas-java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000006.log 
