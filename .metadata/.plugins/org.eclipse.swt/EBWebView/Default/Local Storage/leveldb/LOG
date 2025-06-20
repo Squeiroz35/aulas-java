@@ -1,3 +1,2 @@
-2025/06/18-13:53:06.136 2598 Reusing MANIFEST C:\Users\TURMA-D\TURMA-D\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2025/06/18-13:53:06.216 2598 Recovering log #3
-2025/06/18-13:53:06.219 2598 Reusing old log C:\Users\TURMA-D\TURMA-D\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
+2025/06/20-13:59:52.565 528c Creating DB C:\Users\Sérgio Queiroz\Desktop\aulas-java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
+2025/06/20-13:59:52.585 528c Reusing MANIFEST C:\Users\Sérgio Queiroz\Desktop\aulas-java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
