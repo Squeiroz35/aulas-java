@@ -1,4 +1,4 @@
-package metodo;
+package metodos;
 
 public class javaMetodos {
 	public int idade() {
@@ -14,3 +14,4 @@ public class javaMetodos {
 		System.out.println("jejonel mestre dos disfarces");
 	}
 }
+

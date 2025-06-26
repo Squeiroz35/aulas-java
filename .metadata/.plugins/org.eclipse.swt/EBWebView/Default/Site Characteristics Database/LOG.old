@@ -1,5 +1,1 @@
-2025/06/26-15:15:23.894 949c Log #3: 9 ops saved to Table #4 OK
-2025/06/26-15:15:23.900 949c Archiving C:\Users\TURMA-D\TURMA-D\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log: OK
-2025/06/26-15:15:23.903 949c Table #4: 9 entries OK
-2025/06/26-15:15:23.906 949c Archiving C:\Users\TURMA-D\TURMA-D\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001: OK
-2025/06/26-15:15:23.913 949c **** Repaired leveldb C:\Users\TURMA-D\TURMA-D\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database; recovered 1 files; 277 bytes. Some data may have been lost. ****
+2025/06/26-15:15:23.920 949c Reusing MANIFEST C:\Users\TURMA-D\TURMA-D\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
