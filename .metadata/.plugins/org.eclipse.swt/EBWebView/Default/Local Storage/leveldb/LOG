@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2025/06/26-14:29:47.531 e10 Reusing MANIFEST C:\Users\TURMA-D\TURMA-D\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
 2025/06/26-14:29:47.587 e10 Recovering log #3
 2025/06/26-14:29:47.597 e10 Reusing old log C:\Users\TURMA-D\TURMA-D\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
+=======
+2025/06/20-14:17:06.035 25d4 Reusing MANIFEST C:\Users\Sérgio Queiroz\Aulas-java\aulas-java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/06/20-14:17:06.040 25d4 Recovering log #3
+2025/06/20-14:17:06.042 25d4 Reusing old log C:\Users\Sérgio Queiroz\Aulas-java\aulas-java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
+>>>>>>> 7dfb691efec3900a49f79603575bee847bb45bd0

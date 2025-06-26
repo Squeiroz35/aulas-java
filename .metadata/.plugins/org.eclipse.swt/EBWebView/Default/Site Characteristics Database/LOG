@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2025/06/26-14:29:47.301 3fe0 Reusing MANIFEST C:\Users\TURMA-D\TURMA-D\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
 2025/06/26-14:29:47.315 3fe0 Recovering log #3
 2025/06/26-14:29:47.317 3fe0 Reusing old log C:\Users\TURMA-D\TURMA-D\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log 
+=======
+2025/06/20-14:17:05.979 282c Reusing MANIFEST C:\Users\Sérgio Queiroz\Aulas-java\aulas-java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2025/06/20-14:17:05.980 282c Recovering log #6
+2025/06/20-14:17:05.980 282c Reusing old log C:\Users\Sérgio Queiroz\Aulas-java\aulas-java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000006.log 
+>>>>>>> 7dfb691efec3900a49f79603575bee847bb45bd0
